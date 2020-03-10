@@ -1,0 +1,24 @@
+{
+  "name": "webpack-customs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locusy/webpack-customs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locusy/webpack-customs/issues"
+  },
+  "homepage": "https://github.com/locusy/webpack-customs#readme",
+  "devDependencies": {
+    "loader-utils": "^1.4.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
