@@ -31,5 +31,5 @@ module.exports = function(source) {
     setTimeout(() => {
         const result = source.replace("tiantian", options.name);
         callback(null, result)
-    }, 3000)
+    }, 500)
 }
