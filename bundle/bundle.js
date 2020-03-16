@@ -9,7 +9,7 @@ const entry = filename => {
   const Ast = parser.parse(content, {
     sourceType: "module"
   });
-  console.log(Ast.program.body);
+  // console.log(Ast.program.body);
   
   const yilai = {};
   traverse(Ast, {
