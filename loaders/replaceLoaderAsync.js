@@ -26,7 +26,7 @@ module.exports = function(source) {
     //     return result
     // }, 1000)
 
-    // 使用this.async处理异步 callback 就是 this.callback 注意参数的使⽤用
+    // 使用this.async处理异步 callback 就是 this.callback 注意参数的使⽤
     const callback = this.async()
     setTimeout(() => {
         const result = source.replace("tiantian", options.name);
