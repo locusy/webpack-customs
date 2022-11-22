@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/locusy/webpack-customs#readme",
   "devDependencies": {
-    "loader-utils": "^1.4.0",
+    "loader-utils": "^1.4.2",
     "webpack": "^4.42.0",
     "webpack-cli": "^3.3.11"
   }
